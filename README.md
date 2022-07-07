@@ -1,4 +1,4 @@
-# Liste de mes remontées de bugs logiciels depuis 3 ans
+# Liste de mes remontées de bugs logiciels ces 3 dernières années :
 
 Browser global zoom at 125% hides "Get started" button https://github.com/RabbyHub/Rabby/issues/771
 
